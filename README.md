@@ -28,4 +28,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
+  This computer i not have.... yet.
 ![AdoredEntireJavalina-size_restricted](https://user-images.githubusercontent.com/33222123/158151566-8b4df012-5ce4-46d9-875c-bd16afeea0ef.gif)
