@@ -33,4 +33,3 @@ Here are some ideas to get you started:
 
 
 
-<!-- Temperatur från temperatur.nu --><script type="text/javascript" src="https://www.temperatur.nu/jstemp.php?s=s-oestermalm"></script>
